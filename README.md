@@ -1,6 +1,6 @@
 # 🎁 n8n Automated Coupon Campaign
 
-A fully automated coupon distribution system built with **n8n**, **Google Sheets**, and **Gmail**. Built as part of the Pattern Workshop (March 2026).
+A fully automated coupon distribution system built with **n8n**, **Google Sheets**, and **Gmail**.
 
 ---
 
